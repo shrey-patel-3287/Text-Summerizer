@@ -4,7 +4,7 @@
 **NLP HACK**
 
 ## Title
-**TEXT SUMMERIZER**
+[**TEXT SUMMERIZER**](https://youtu.be/81WcjvZZEdc)
 
 ## Inspiration
 The inspiration behind the project is to provide less but effective information of the provided content.
